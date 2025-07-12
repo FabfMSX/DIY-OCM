@@ -1,4 +1,4 @@
-![1](https://github.com/FabfMSX/Octoplus/blob/main/Images/logo.png)
+!(https://github.com/FabfMSX/Octoplus/blob/main/Images/logo.png)
 ![1](https://github.com/FabfMSX/Octoplus/blob/main/Images/20250707_181406.jpg)
 
 OCTO+ is a cheap and easy to build One Chip MSX machine.
