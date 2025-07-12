@@ -1,7 +1,4 @@
-![1](https://github.com/FabfMSX/Octoplus/blob/main/Images/logo.png)
-
-If you don't want to use the cartridge port you can skip all component in red.
-![1](https://github.com/FabfMSX/Octoplus/blob/main/Mods/Minimal/minimal.png)
+![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/logo.png?raw=true)
 
 **Components list :** 
 - 1x AC415 FPGA board
@@ -14,3 +11,4 @@ If you don't want to use the cartridge port you can skip all component in red.
 - 1x stereo jack connector
 - 2x DB9 connectors
 - 1x PCB
+![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/20250707_180422.jpg?raw=true)
