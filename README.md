@@ -1,12 +1,12 @@
-![1]([https://github.com/FabfMSX/Octoplus/blob/main/Images/logo.png](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/logo.png?raw=true))
-![1](https://github.com/FabfMSX/Octoplus/blob/main/Images/20250707_181406.jpg)
+![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/logo.png?raw=true)
+![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/20250707_181406.jpg?raw=true)
 
 OCTO+ is a cheap and easy to build One Chip MSX machine.
 
 OCTO+ uses a cheap **AC415** FPGA board from AliExpress.
 This board provides VGA output, SD socket, SDRAM, USB type C power connector and power switch.
 This allows an easy and fast assembly using only through hole components.
-![1](https://github.com/FabfMSX/Octoplus/blob/main/Images/1.jpg)
+![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/1.jpg?raw=true)
 
 **Components list :** 
 - 1x AC415 FPGA board
@@ -20,4 +20,4 @@ This allows an easy and fast assembly using only through hole components.
 - 1x stereo jack connector
 - 2x DB9 connectors
 - 1x PCB
-![1](https://github.com/FabfMSX/Octoplus/blob/main/Images/20250707_180354.jpg)
+![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/20250707_180354.jpg?raw=true)
