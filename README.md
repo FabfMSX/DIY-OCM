@@ -23,7 +23,7 @@ This allows an easy and fast assembly using only through hole components.
 - 1x PCB
 ![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/20250707_180354.jpg?raw=true)
 > [!IMPORTANT]
-> DIY-OCM is a cheap and easy to build but some features are missing.  
+> DIY-OCM is cheap and easy to build but some features are missing.  
 > Only one cartridge port.  
 > No 12v and -12v on cartridge port.  
 > No tape connector.  
