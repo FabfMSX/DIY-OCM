@@ -11,8 +11,8 @@ This allows an easy and fast assembly using only through hole components.
 
 **Components list :** 
 - 1x AC415 FPGA board
-- 2x 40p double raw female pin header
-- 2x 40p double raw male pin header
+- 2x 20p double raw female pin header
+- 2x 20p double raw male pin header
 - 1x 50p cartridge connector
 - 57x 100R resistors
 - 2x 22uF capacitors
