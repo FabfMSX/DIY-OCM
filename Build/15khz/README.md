@@ -1,14 +1,8 @@
-![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/logo.png?raw=true)
+To use 15Khz output you need to add a little mod to FPGA board .
 
-**Components list :** 
-- 1x AC415 FPGA board
-- 2x 40p double raw female pin header
-- 2x 40p double raw male pin header
-- 57x 100R resistors
-- 2x 22uF capacitors
-- 1x 8p dipswitch right angle
-- 1x PS/2 connector
-- 1x stereo jack connector
-- 2x DB9 connectors
-- 1x PCB
-![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/20250707_180422.jpg?raw=true)
+Wire 5v board
+![1](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/1000017545.jpg?raw=true)
+to VGA 5v pin
+![2](https://github.com/FabfMSX/DIY-OCM/blob/main/Images/1000017546.jpg?raw=true)
+
+Enjoy old CRT output !
